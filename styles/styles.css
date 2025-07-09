@@ -228,7 +228,7 @@ main img {
 }
 
 /* sections */
-main > .section {
+/* main > .section {
   margin: 40px 0;
 }
 
@@ -246,12 +246,14 @@ main > .section:first-of-type {
   main > .section > div {
     padding: 0 32px;
   }
-}
+} */
 
 /* section metadata */
-main .section.light,
+/* main .section.light,
 main .section.highlight {
   background-color: var(--light-color);
   margin: 0;
   padding: 40px 0;
-}
+} */
+
+

@@ -1,0 +1,42 @@
+{
+  "backdrop": {
+    "lg": "image-url",
+    "md": "image-url",
+    "sm": "image-url",
+    "xs": "image-url"
+  },
+  "title": "Hero Title",
+  "getAQuote": {
+    "dropdown": {
+      "label": "Get a Quote",
+      "options": [
+        {
+          "label": "Home Insurance",
+          "icon": "icon-name",
+          "link": "url",
+          "iconDark": "custom-icons.svg#icon-home-dark",
+          "iconLight": "custom-icons.svg#icon-home-light"
+        },
+        {
+          "label": "Content Insurance",
+          "icon": "icon-name",
+          "link": "url",
+          "iconDark": "custom-icons.svg#icon-home-dark",
+          "iconLight": "custom-icons.svg#icon-home-light"
+        }
+      ]
+    }
+  },
+  "startACliam": {
+    "label": "Start a Claim",
+    "link": "url"
+  },
+  "pay": {
+    "label": "Pay / Renew",
+    "link": "url"
+  },
+  "footer": {
+    "image": "image-url",
+    "text": "... shutter shades were a thing. Proud to be voted Most Trusted General Insurer for 15 years in a row."
+  }
+}
